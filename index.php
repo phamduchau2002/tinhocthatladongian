@@ -1,4 +1,3 @@
-asd
-asd
-as
-dhello
+<?php
+echo "tin hoc that la don gian";
+?>
